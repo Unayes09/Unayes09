@@ -1,4 +1,6 @@
-### Hi there 👋
+### Unayes Ahmed Khan
+### Computer Science and Engineering
+### Shahjalal University of Science and Technology
 
 <!--
 **Unayes09/Unayes09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
