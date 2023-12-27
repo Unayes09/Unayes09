@@ -19,7 +19,7 @@
         </ul>
         <h3>Problem Solver Extraordinaire</h3>
         <p>You'll often find me engaged in thrilling problem-solving quests on various platforms. Challenges are my playground, and I thrive on cracking those coding puzzles that keep the mind agile and sharp. 💪</p>
-      <p><a href="https://codeforces.com/profile/Unayes">Codeforces-1</a> | <a href="https://codeforces.com/profile/SignatureUAK">Codeforces-2</a> | <a href="https://leetcode.com/unayes/">LeetCode</a> | <a href="https://www.codechef.com/users/unayes08">CodeChef</a> | <a href="https://vjudge.net/user/2020331009">VJudge</a></p>
+      <p><a href="https://codeforces.com/profile/Unayes">Codeforces-1</a> | <a href="https://lightoj.com/user/unayes08">LightOJ</a> | <a href="https://leetcode.com/unayes/">LeetCode</a> | <a href="https://www.codechef.com/users/unayes08">CodeChef</a> | <a href="https://vjudge.net/user/2020331009">VJudge</a></p>
         <h3>Vision: Becoming a Tech Engineer</h3>
         <p>My aspirations are boundless as I work towards donning the hat of a Tech Engineer. With a thirst for knowledge and a hunger for innovation, I'm on a mission to contribute my creativity to the tech landscape and make a lasting impact.</p>
         <p>So join me on this incredible journey of bits and bytes, where we turn dreams into lines of code and aspirations into digital realities. Connect with me and let's build the future together! 🌟</p>
