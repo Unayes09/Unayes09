@@ -1,31 +1,27 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-    
-</head>
-<body>
-    <div class="container">
-        <h1>Hey there, I'm Unayes Ahmed Khan! 👋</h1>
-        <p>Welcome to my corner of the coding universe! I'm a passionate Computer Science and Engineering student at Shahjalal University of Science and Technology (SUST). 🚀</p>
-        <h2>About Me</h2>
-        <p>As a dedicated learner and aspiring tech enthusiast, I've delved into the realms of programming languages and technologies, shaping my journey into something extraordinary. With a strong foundation in various programming languages, I'm all about turning complex problems into elegant solutions. 💡</p>
-        <h3>What I Bring to the Table</h3>
-        <ul>
-            <li><strong>Data Maestro:</strong> My expertise extends to handling databases, particularly MySQL, ensuring seamless data management and organization.</li>
-            <li><strong>Web Weaver:</strong> Proficient in HTML5, Javascript, Nodejs and Express, I have the knack for designing visually appealing and user-friendly web interfaces.</li>
-        </ul>
-        <h3>Problem Solver Extraordinaire</h3>
-        <p>You'll often find me engaged in thrilling problem-solving quests on various platforms. Challenges are my playground, and I thrive on cracking those coding puzzles that keep the mind agile and sharp. 💪</p>
-      <p><a href="https://codeforces.com/profile/Unayes">Codeforces-1</a> | <a href="https://lightoj.com/user/unayes08">LightOJ</a> | <a href="https://leetcode.com/unayes/">LeetCode</a> | <a href="https://www.codechef.com/users/unayes08">CodeChef</a> | <a href="https://vjudge.net/user/2020331009">VJudge</a></p>
-        <h3>Vision: Becoming a Tech Engineer</h3>
-        <p>My aspirations are boundless as I work towards donning the hat of a Tech Engineer. With a thirst for knowledge and a hunger for innovation, I'm on a mission to contribute my creativity to the tech landscape and make a lasting impact.</p>
-        <p>So join me on this incredible journey of bits and bytes, where we turn dreams into lines of code and aspirations into digital realities. Connect with me and let's build the future together! 🌟</p>
-        <p>Feel free to reach out: <a href="mailto:unayeskhan0808@gmail.com">unayeskhan0808@gmail.com</a> | <a href="https://www.linkedin.com/in/unayes-ahmed-khan-3a45bb262/">LinkedIn</a> | <a href="https://www.facebook.com/profile.php?id=100076577988974&mibextid=ZbWKwL">Facebook</a></p>
-        <p>Let's code the world to a better place, one line at a time! 🌍👨‍💻</p>
-    </div>
-</body>
-</html>
+<h1 align="center">Hi 👋, I'm Unayes Ahmed Khan</h1>
+<h3 align="center">As a dedicated learner and aspiring tech enthusiast, I've delved into the realms of programming languages and technologies, shaping my journey into something extraordinary. With a strong foundation in various programming languages, I'm all about turning complex problems into elegant solutions. 💡</h3>
 
+- 🔭 Here you can see [my portfolio](https://unayes-portfolio.onrender.com/)
+
+- 🌱 I’m currently learning **Microservice, Software architecture**
+
+- 👨‍💻Some of my projects are available at [https://unayes-portfolio.onrender.com/](https://unayes-portfolio.onrender.com/)
+
+- 💬 Ask me about **React, Node.js, Java Springboot & Problem Solving**
+
+- 📫 How to reach me **unayeskhan.0808@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/unayes-ahmed-khan-3a45bb262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="unayes-ahmed-khan-3a45bb262" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/unayeskhan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="unayeskhan" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/unayes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="unayes" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/unayes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="unayes" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=unayes09&show_icons=true&locale=en&layout=compact" alt="unayes09" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=unayes09&" alt="unayes09" /></p>
