@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Unayes Ahmed Khan</h1>
 <h3 align="center">As a dedicated learner and aspiring tech enthusiast, I've delved into the realms of programming languages and technologies, shaping my journey into something extraordinary. With a strong foundation in various programming languages, I'm all about turning complex problems into elegant solutions. 💡</h3>
 
-- 🔭 Here you can see [My Portfolio](https://unayes-portfolio.onrender.com/)
+- 🔭 Here you can see [My Portfolio](https://unayes.netlify.app/)
 
 - 🌱 I’m currently learning **Microservices, Software architecture**
 
-- 👨‍💻Some of my projects are available at [My Portfolio](https://unayes-portfolio.onrender.com/)
+- 👨‍💻Some of my projects are available at [My Portfolio](https://unayes.netlify.app/)
 
 - 💬 Expert at **React, Node.js, Java Springboot & Problem Solving**
 
