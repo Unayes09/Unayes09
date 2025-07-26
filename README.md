@@ -1,27 +1,104 @@
-<h1 align="center">Hi 👋, I'm Unayes Ahmed Khan</h1>
-<h3 align="center">As a dedicated learner and aspiring tech enthusiast, I've delved into the realms of programming languages and technologies, shaping my journey into something extraordinary. With a strong foundation in various programming languages, I'm all about turning complex problems into elegant solutions. 💡</h3>
+# 👨‍💻 Unayes Ahmed Khan | Computer Science Student
 
-- 🔭 Here you can see [My Portfolio](https://unayes.netlify.app/)
+<div align="center">
+  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"/>
+</div>
 
-- 🌱 I’m currently learning **Microservices, Software architecture**
+### 🚀 Building the future, one commit at a time
 
-- 👨‍💻Some of my projects are available at [My Portfolio](https://unayes.netlify.app/)
 
-- 💬 Expert at **React, Node.js, Java Springboot & Problem Solving**
+## 🎯 Current Focus
 
-- 📫 Contact me **unayeskhan.0808@gmail.com**
+- 🔭 Working on: *Improving my portfolio and exploring more advanced concepts in web development* <!-- TODO: Add your current main project -->
+- 🌱 Learning: *Advanced React concepts, Next.js, and more about backend development* <!-- TODO: Add what you're currently learning -->
+- 👯 Looking to collaborate on: *Open Source Projects related to web development*
+- 💬 Ask me about: *React, JavaScript, Node.js, problem-solving, and innovative tech solutions* <!-- TODO: Add your areas of expertise -->
+- ⚡ Fun fact: *I enjoy playing video games when I'm not coding!* <!-- TODO: Add a fun fact -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/unayes-ahmed-khan-3a45bb262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="unayes-ahmed-khan-3a45bb262" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/unayeskhan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="unayeskhan" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/unayes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="unayes" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/unayes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="unayes" height="30" width="40" /></a>
+
+## 🛠 Technology Arsenal
+
+### 💻 Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+<!-- TODO: Add/remove languages based on your actual skills -->
+
+### 🚀 Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+<!-- TODO: Add your actual frameworks -->
+
+
+## 📊 GitHub Analytics Dashboard
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Unayes09&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unayes09&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+### 🏆 GitHub Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Unayes09&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=3"/>
 </p>
 
-<h3 align="left">Languages and Tools I have used:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### 📈 Contribution Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Unayes09&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=unayes09&show_icons=true&locale=en&layout=compact" alt="unayes09" /></p>
+### 🔥 Streak Statistics
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Unayes09&theme=tokyonight&hide_border=true"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=unayes09&" alt="unayes09" /></p>
+### 📅 Contribution Calendar
+<img src="https://ghchart.rshah.org/409ba5/Unayes09" alt="Contribution Calendar" width="100%"/>
+
+### ⚡ Recent Activity
+<!--START_SECTION:activity-->
+<!-- TODO: Set up GitHub Actions to auto-update this section -->
+<!--END_SECTION:activity-->
+
+
+## 🏗 Featured Projects
+
+<div align="center">
+
+<!-- TODO: Replace with actual project -->
+</div>
+
+
+## 🌐 Let's Connect & Collaborate
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://unayes.netlify.app/) <!-- TODO: Add your portfolio -->
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:unayeskhan.0808@gmail.com) <!-- TODO: Add your email -->
+
+### 📱 Social Presence
+[![GitHub followers](https://img.shields.io/github/followers/Unayes09?style=social)](https://github.com/Unayes09)
+
+</div>
+
+
+## ☕ Support My Work
+
+If you found my projects helpful or learned something from my code, consider supporting my work:
+
+<div align="center">
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/unayeskhanx) <!-- TODO: Replace YOUR_USERNAME with your Buy Me A Coffee username -->
+
+</div>
+
+<div align="center">
+  <sub>💡 <i>Every contribution, no matter how small, helps me maintain and improve my open source projects!</i></sub>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Unayes09&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
+
+  ### 🚀 "Code is poetry, and every commit tells a story"
+
+  <sub>⭐ Feel free to star any repositories you find interesting!</sub>
+</div>
