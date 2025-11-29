@@ -40,10 +40,6 @@
 ### 📈 Contribution Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Unayes09&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 
-### 🔥 Streak Statistics
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Unayes09&theme=tokyonight&hide_border=true"/>
-</p>
 
 ### 📅 Contribution Calendar
 <img src="https://ghchart.rshah.org/409ba5/Unayes09" alt="Contribution Calendar" width="100%"/>
@@ -53,13 +49,6 @@
 <!-- TODO: Set up GitHub Actions to auto-update this section -->
 <!--END_SECTION:activity-->
 
-
-## 🏗 Featured Projects
-
-<div align="center">
-
-<!-- TODO: Replace with actual project -->
-</div>
 
 
 ## 🌐 Let's Connect & Collaborate
@@ -74,20 +63,6 @@
 
 </div>
 
-
-## ☕ Support My Work
-
-If you found my projects helpful or learned something from my code, consider supporting my work:
-
-<div align="center">
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/unayeskhanx) <!-- TODO: Replace YOUR_USERNAME with your Buy Me A Coffee username -->
-
-</div>
-
-<div align="center">
-  <sub>💡 <i>Every contribution, no matter how small, helps me maintain and improve my open source projects!</i></sub>
-</div>
 
 ---
 
