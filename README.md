@@ -1,4 +1,4 @@
-# 👨‍💻 Unayes Ahmed Khan | Computer Science Student
+# 👨‍💻 Unayes Ahmed Khan
 
 ### 🚀 Building the future, one commit at a time
 
