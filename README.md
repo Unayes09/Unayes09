@@ -1,75 +1,103 @@
-# 👨‍💻 Unayes Ahmed Khan
 
-### 🚀 Building the future, one commit at a time
+# Hi there, I'm Unayes Ahmed Khan 👋
 
-
-## 🎯 Current Focus
-
-- 🔭 Working on: *Improving my portfolio and exploring more advanced concepts in web development* <!-- TODO: Add your current main project -->
-- 🌱 Learning: *Advanced React concepts, Next.js, and more about backend development* <!-- TODO: Add what you're currently learning -->
-- 👯 Looking to collaborate on: *Open Source Projects related to web development*
-- 💬 Ask me about: *React, JavaScript, Node.js, problem-solving, and innovative tech solutions* <!-- TODO: Add your areas of expertise -->
-- ⚡ Fun fact: *I enjoy playing video games when I'm not coding!* <!-- TODO: Add a fun fact -->
-
-
-## 🛠 Technology Arsenal
-
-### 💻 Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-<!-- TODO: Add/remove languages based on your actual skills -->
-
-### 🚀 Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-<!-- TODO: Add your actual frameworks -->
-
-
-## 📊 GitHub Analytics Dashboard
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Unayes09&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unayes09&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-### 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Unayes09&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=3"/>
-</p>
-
-### 📈 Contribution Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Unayes09&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
-
-
-### 📅 Contribution Calendar
-<img src="https://ghchart.rshah.org/409ba5/Unayes09" alt="Contribution Calendar" width="100%"/>
-
-### ⚡ Recent Activity
-<!--START_SECTION:activity-->
-<!-- TODO: Set up GitHub Actions to auto-update this section -->
-<!--END_SECTION:activity-->
-
-
-
-## 🌐 Let's Connect & Collaborate
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://unayes.netlify.app/) <!-- TODO: Add your portfolio -->
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:unayeskhan.0808@gmail.com) <!-- TODO: Add your email -->
-
-### 📱 Social Presence
-[![GitHub followers](https://img.shields.io/github/followers/Unayes09?style=social)](https://github.com/Unayes09)
-
-</div>
-
+I am a **Computer Science and Engineering** student at Shahjalal University of Science and Technology (SUST) and a **Software Engineer Intern** at Recurse.AI. I specialize in building AI-powered web applications and solving complex algorithmic problems.
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Unayes09&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
+### 🚀 Quick Overview
 
-  ### 🚀 "Code is poetry, and every commit tells a story"
+* 🎓 **Education:** Final year BSc in CSE at SUST (**CGPA: 3.77/4.00**).
+* 💻 **Current Role:** Software Engineer Intern at **Recurse.AI**.
+* 🏆 **Competitive Programming:** 1000+ problems solved. **Codeforces Max: 1510**.
+* 🧠 **Interests:** AI/ML, Full-Stack Development, and Speech-to-Speech frameworks.
 
-  <sub>⭐ Feel free to star any repositories you find interesting!</sub>
-</div>
+---
+
+### 🛠 Tech Stack
+
+| Category | Skills |
+| --- | --- |
+| **Languages** | C++, C, Python, Java, JavaScript, SQL |
+| **Frontend** | React.js, Next.js, HTML5, CSS3 |
+| **Backend** | Node.js, Express.js, Spring Boot, Java Servlet |
+| **Mobile** | React Native, Expo |
+| **Databases** | PostgreSQL, MongoDB, MySQL |
+| **Tools/Cloud** | Docker, Git/GitHub, Postman, Prisma ORM, Pinecone |
+
+---
+
+### 🏆 Competitive Programming Highlights
+
+* **Rank 14th** – ICPC Dhaka Regional '25
+* **Rank 20th** – ICPC Preliminary '25
+* **Rank 18th** – MU IUPC '25
+* **Rank 11th** – IIUC IUPC '23
+* **Rank 6th** – LU Sylhet Divisional '23
+
+---
+
+### 📂 Featured Projects
+
+#### [Thryve](https://github.com/Unayes09/Thryve-Youtubers-Toolkit-SmythOS-HackTheAI-2025) | Lead Developer
+
+**AI-Powered YouTube Content Creation Platform**
+
+* Built an automated system for video ideation, voiceovers, thumbnails, and reels.
+* **Stack:** Next.js 15, PostgreSQL, Prisma, Pinecone, OpenAI, SmythOS AI Agents.
+
+#### [TikaSheba](https://github.com/Mutah3r/TikaSheba-NEUB-Hackathon) | Backend & Mobile Developer
+
+**National Vaccination Workflow Automation**
+
+* Digitized vaccination workflows with real-time tracking and ML-based forecasting using Meta Prophet.
+* **Stack:** Node.js, Express, MongoDB, Gemini API.
+
+#### [Coder's Platform](https://github.com/Unayes09/Coders-Platform) | Lead Developer
+
+**AI-Enhanced Learning Platform**
+
+* A collaborative coding environment with personalized AI tutoring.
+* **Stack:** Spring Boot, React, MongoDB.
+
+---
+
+## Research Experience
+
+### **An End-to-End Speech-to-Speech Framework for Expressive Bengali Accent Conversion using a Novel Parallel Corpus**
+
+*Jun 2025 – Present*
+
+* Developed an **S2S framework** converting regional Bengali accents to Standard Bengali while preserving speaker identity.
+* Created the **Bengali Parallel Accent Corpus (BPAC)**, a novel dataset using a fixed-text protocol for ground-truth pairs.
+* Implemented a generative pipeline using **Flow Matching Transformers**, achieving superior naturalness over Soft-Unit Adaptation.
+
+---
+
+### **Investigating the Impact of Fast-Paced Digital Content on Attention and Cognitive Load: A Machine Learning Approach**
+
+*Mar 2025 – Present*
+
+* Applying **machine learning techniques** to analyze digital behavior patterns and cognitive impacts of social media.
+* Investigating **behavioral impulsivity and focus** using data-driven modeling.
+
+---
+
+### 🏅 Major Achievements
+
+* 🥇 **Champion** - NEUB Hackathon 2025
+* 🥇 **Champion** - LUCC Divisional Hackathon 2024
+* 🥈 **1st Runner-Up** - HackTheAI Hackathon 2025
+* 🥈 **1st Runner-Up** - Technocrats V.2 Techathon 2024
+* 🥉 **2nd Runner-Up** - KUET AI & API Hackathon 2025
+* 🏅 **Finalist** - Code Samurai 2024 & Therap JavaFest 2023
+
+---
+
+### 📫 Let's Connect!
+
+I'm always open to collaborating on innovative AI or Web projects. Feel free to reach out!
+
+* **Location:** Sylhet, Bangladesh 🇧🇩
+* **LinkedIn:** [unayes-ahmed-khan](https://linkedin.com/in/unayes-ahmed-khan-3a45bb262)
+* **Personal Site:** [unayes.netlify.app](https://unayes.netlify.app)
